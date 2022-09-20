@@ -8,9 +8,8 @@ def predictor():
 
     st.title("Predict machine state")
 
-    st.write("Predictive Maintenance is the most efficent approach to manageing and allocateing resources on industrial operatios.")
-    st.write("This.")
-    st.write("This app helps your industry to become more efficient and assertive on machine maintenance.")
+    st.write("Predictive Maintenance is the most efficient approach to managing and allocating resources to industrial operations.")
+    st.write("This app helps your industry to utilize this approach and monitor more precisely the actual machine state.")
 
 
 
