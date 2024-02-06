@@ -3,4 +3,3 @@ numpy==1.19.5
 Pillow
 scikit-learn
 pandas
-pickle
